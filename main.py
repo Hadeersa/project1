@@ -1,4 +1,7 @@
-x=5
+x=7
 y=6
+n=10
 z=x+y
-print(z)
+w=n+y
+print (z)
+print(w)
